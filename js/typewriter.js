@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded',function(event){
-  var dataText = [ "Speak.", "Hear.", "Resolve.", "CHIREC<br><h3>MODEL UNITED NATIONS</h3><h2>2020</h2>"];
+  var dataText = [ "Speak.", "Hear.", "Resolve.", "CHIREC<br><h3>MODEL UNITED NATIONS</h3>2020"];
 
   function typeWriter(text, i, fnCallback) {
     if (i < (text.length)) {
